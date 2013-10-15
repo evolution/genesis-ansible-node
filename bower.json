@@ -1,0 +1,25 @@
+{
+  "name": "ansible-node",
+  "version": "0.1.0",
+  "homepage": "https://github.com/genesis/ansible-node",
+  "authors": [
+    "Eric Clemmons <eric@smarterspam.com>"
+  ],
+  "description": "Node packages used when provisioning Genesis projects",
+  "main": "playbook.yml",
+  "keywords": [
+    "ansible",
+    "genesis",
+    "provision",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
